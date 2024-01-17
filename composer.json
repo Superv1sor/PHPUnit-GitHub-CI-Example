@@ -1,4 +1,7 @@
 {
+  "name": "superv1sor/phpunit-github-ci-example",
+  "description": "A simple PHP application designed to demonstrate PHPUnit and GitHub Actions",
+  "license": "MIT",
   "require-dev": {
     "phpunit/phpunit": "^9.5"
   }
